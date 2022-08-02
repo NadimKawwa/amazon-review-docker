@@ -24,3 +24,6 @@ It's highly recommended to start out small with a subset of the data as opposed 
 
 Most of the work is done inside the [Preprocessing-with-container.ipynb](https://github.com/NadimKawwa/amazon-review-docker/blob/main/Preprocessing-with-container.ipynb) notebook. In addition, the python scripts are written via the notebook.
 
+#### Trouble Loading the Notebook?
+If the notebook takes too long to load, this website can help:
+https://nbviewer.org/
